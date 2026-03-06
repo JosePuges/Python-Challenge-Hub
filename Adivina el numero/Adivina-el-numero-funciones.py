@@ -41,4 +41,5 @@ def main():
     print(f" Fin del juego, tu mejor puntuaciona ha sido. {mejor_puntuacion} intentos")
 
 
-    
+    if __name__ == "__main__":
+        main()
